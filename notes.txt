@@ -1,0 +1,37 @@
+Places:
+ - street***
+ - gym
+ - room
+ - restaurant
+ - bar
+
+sounds in street:
+ - cars driving
+ - footsteps
+ - talking
+ - rain
+ - wind
+ - car horn
+ - sirens
+ - helicopter
+ - tire screech
+
+Stories in street:
+ - walk to class - quick story
+ - car crash - longer story
+
+Characters:
+ - me, roomate
+ - other people walking/driving
+
+Events:
+ - action of walking to class
+ - an accident happens
+
+Sounds to find online
+ - sound of car crash
+ - sirens
+
+Sounds to record
+ - ambient street noise
+ - people talking
