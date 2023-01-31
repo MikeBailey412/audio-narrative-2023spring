@@ -20,3 +20,8 @@ This project uses these sounds from freesound:
 - "Making Coffee In A Keurig" by madcowzack (https://freesound.org/people/madcowzack/sounds/584971/) licensed under CCBYNC 4.0
 - "BACON" by stomachache (https://freesound.org/people/stomachache/sounds/233976/) licensed under CCBYNC 4.0
 - "Cracking and frying egg.wav" by TheSupremeMuffinPooter (https://freesound.org/people/TheSupremeMuffinPooter/sounds/333518/) licensed under CCBYNC 4.0
+- "walking_city street.wav" by simosco (https://freesound.org/people/simosco/sounds/235552/) licensed under CCBYNC 4.0
+- "Locking the door" by addiesindie12 (https://freesound.org/people/addiesindie13/sounds/393758/) licensed under CCBYNC 4.0
+- "GYM AMBIENCE_ Very busy gym ambience.wav" by GuntherDorksen (https://freesound.org/people/GuntherDorksen/sounds/328061/) licensed under CCBYNC 4.0
+- "Heavy Breath.wav"by samule44 (https://freesound.org/people/samule44/sounds/96023/) licensed under CCBYNC 4.0
+- "Treadmill" by flunkspagnargel (https://freesound.org/people/flunkspagnargel/sounds/243654/) licensed under CCBYNC 4.0
