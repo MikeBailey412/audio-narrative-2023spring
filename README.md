@@ -1,4 +1,6 @@
-This is the future site of Mike Bailey's audio narrative.
+This Mike Bailey's audio narrative project.
+The narrative is a day in the life and it takes you through a few different scenes.
+The first scene is me getting ready for the day and then making breakfast.  The next scene is going to the gym, and then finally I end the day by practicing guitar.
 
 List of assests so far:
 - Iphone alarm - stock audio
@@ -26,3 +28,4 @@ This project uses these sounds from freesound:
 - "Heavy Breath.wav"by samule44 (https://freesound.org/people/samule44/sounds/96023/) licensed under CCBYNC 4.0
 - "Treadmill" by flunkspagnargel (https://freesound.org/people/flunkspagnargel/sounds/243654/) licensed under CCBYNC 4.0
 - "Guitar Case Open and Close" by ultradust (https://freesound.org/people/ultradust/sounds/166920/) licensed under CCBYNC 4.0
+- Guitar playing recorded by me
