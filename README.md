@@ -28,4 +28,4 @@ This project uses these sounds from freesound:
 - "Heavy Breath.wav"by samule44 (https://freesound.org/people/samule44/sounds/96023/) licensed under CCBYNC 4.0
 - "Treadmill" by flunkspagnargel (https://freesound.org/people/flunkspagnargel/sounds/243654/) licensed under CCBYNC 4.0
 - "Guitar Case Open and Close" by ultradust (https://freesound.org/people/ultradust/sounds/166920/) licensed under CCBYNC 4.0
-- Guitar playing recorded by me
+-  Speaking and Guitar playing recorded by me
